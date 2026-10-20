@@ -1,0 +1,7 @@
+﻿model,id,asked_in,answered_in,latency_s,output_tokens,reply_start
+qwen2.5:7b,explain_en,en,en,7.48,95,A foundation model is like a super-smart computer program that can do many different tasks
+qwen2.5:7b,explain_ar,ar,ar,2.97,97,النموذج التأسيسي هو طريقة لفهم كيفية بناء وعمل النظام أو المجتمع. يركز على العناصر الأساسي
+qwen2.5:7b,idea_en,en,en,2.61,60,One idea could be a chatbot assistant that helps small businesses manage customer inquirie
+qwen2.5:7b,idea_ar,ar,ar,3.13,112,فكرة أولى: تطبيق لتحليل البيانات المالية للأسر المنتجة لمساعدتها في إدارة ميزانيتهن وتخطيط
+qwen2.5:7b,summary_en,en,en,2.54,52,Open models allow developers in the UAE and the region to access and modify software freel
+qwen2.5:7b,summary_ar,ar,en,2.56,49,تهم النماذج المفتوحة المطورين في المنطقة因为她提供了免费的高质量资源，促进了学习和创新。此外，这些模型的开源性质鼓励了知识共享和技术合作，有

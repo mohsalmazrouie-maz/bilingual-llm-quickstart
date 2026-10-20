@@ -1,0 +1,8 @@
+[
+  {"id": "explain_en", "lang": "en", "prompt": "What is a foundation model? Explain it to a high school student."},
+  {"id": "explain_ar", "lang": "ar", "prompt": "ما هو النموذج التأسيسي؟ اشرحه لطالب في المرحلة الثانوية."},
+  {"id": "idea_en", "lang": "en", "prompt": "Give three hackathon project ideas that use an AI model to help small businesses in the UAE."},
+  {"id": "idea_ar", "lang": "ar", "prompt": "اقترح ثلاث أفكار لمشاريع هاكاثون تستخدم الذكاء الاصطناعي لمساعدة الأسر المنتجة في الإمارات."},
+  {"id": "summary_en", "lang": "en", "prompt": "Summarise in two sentences why open models matter for developers in the region."},
+  {"id": "summary_ar", "lang": "ar", "prompt": "لخص في جملتين لماذا تهم النماذج المفتوحة المطورين في المنطقة."}
+]

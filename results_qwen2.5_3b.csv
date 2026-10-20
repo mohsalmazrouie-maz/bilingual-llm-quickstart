@@ -1,0 +1,7 @@
+﻿model,id,asked_in,answered_in,latency_s,output_tokens,reply_start
+qwen2.5:3b,explain_en,en,ar,2.52,86,foundation model هو مفهوم في الذكاء الاصطناعي يشير إلى نموذج كبير الحجم يمكن استخدامه كベース
+qwen2.5:3b,explain_ar,ar,ar,2.55,104,النموذج التأسيسي هو أساس التفكير النقدي والتحليلي. يعني أنه يجب على الشخص أن يبدأ دائمًا ب
+qwen2.5:3b,idea_en,en,en,2.78,150,Here are three hackathon project ideas that use AI models to assist small businesses in th
+qwen2.5:3b,idea_ar,ar,ar,3.12,208,يمكن تقديم أفكار لمشاريع هاكاثون تستخدم الذكاء الاصطناعي لمساعدة الأسر المنتجة في الإمارات
+qwen2.5:3b,summary_en,en,en,2.29,49,Open models are crucial for developers in the UAE because they promote transparency and co
+qwen2.5:3b,summary_ar,ar,ar,2.26,44,النماذج المفتوحة توفر للمطورين فرصة لتعلم تقنيات جديدة وتحسين مهاراتهم، بينما يدعم تطويرها
